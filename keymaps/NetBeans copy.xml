@@ -1,0 +1,19 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+  </action>
+  <action id="Go To Tab #1">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="Go To Tab #2">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="Go To Tab #3">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+</keymap>

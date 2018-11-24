@@ -1,0 +1,15 @@
+<templateSet group="PHP">
+  <template name="de" value="dd($END$);" description="debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="fori" value="foreach ($ITERABLE$ as $VAR_VALUE$) {&#10;    $END$&#10;}" shortcut="TAB" description="foreach(iterable_expr as $value) {...}" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="phpSuggestVariableName()" defaultValue="&quot;$item&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="dd" value="utilDebug::preprint($END$);exit();" description="debug_laravel" toReformat="false" toShortenFQNames="true" />
+</templateSet>
