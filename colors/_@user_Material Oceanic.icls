@@ -4,7 +4,7 @@
     <property name="created">2018-11-24T06:26:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-11-24T06:37:26</property>
+    <property name="modified">2018-11-28T10:08:56</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -13,8 +13,8 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="c3e88d" />
-    <option name="ANNOTATIONS_COLOR" value="fffbf7" />
+    <option name="ADDED_LINES_COLOR" value="fe800" />
+    <option name="ANNOTATIONS_COLOR" value="" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="1b2529" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
@@ -39,13 +39,13 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-    <option name="GUTTER_BACKGROUND" value="263238" />
+    <option name="GUTTER_BACKGROUND" value="3c3f41" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="263238" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="607d86" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
-    <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
+    <option name="MODIFIED_LINES_COLOR" value="ffae38" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="eeffff" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
@@ -59,13 +59,13 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
     <option name="TOOLTIP" value="32424a" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="546e7a" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
     <option name="WHITESPACES" value="2e3c43" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="546e7a" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="e7e8dd" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -1203,6 +1203,9 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -1382,6 +1385,9 @@
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
@@ -2250,10 +2256,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="425b67" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="b39613" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
