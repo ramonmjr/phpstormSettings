@@ -22,7 +22,7 @@
           <IdeaActionID>Console.TableResult.EditValue</IdeaActionID>
           <ShortCut>'F2' or 'Enter' or 'Alt+Enter'</ShortCut>
           <Description>Edit</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+7' or 'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
