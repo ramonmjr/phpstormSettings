@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+7' or 'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
