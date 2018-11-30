@@ -3,4 +3,10 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift f11" />
   </action>
+  <action id="Debugger.ResumeThread" />
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Resume" />
+  <action id="UML.ApplyCurrentLayout" />
 </keymap>
