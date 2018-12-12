@@ -11,7 +11,7 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="de" value="utilDebug::preprint($END$);exit();" description="debug" toReformat="false" toShortenFQNames="true">
+  <template name="de" value="app\components\util\UtilDebug\utilDebug::preprint($END$);exit();" description="debug" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
