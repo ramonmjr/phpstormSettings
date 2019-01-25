@@ -4,7 +4,7 @@
     <property name="created">2018-11-24T06:26:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2019-01-17T13:43:58</property>
+    <property name="modified">2019-01-25T15:07:07</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -13,7 +13,7 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="FILESTATUS_ADDED" value="50fa7b" />
-    <option name="FILESTATUS_COPIED" value="73c990" />
+    <option name="FILESTATUS_COPIED" value="50fa7b" />
     <option name="FILESTATUS_DELETED" value="6272a4" />
     <option name="FILESTATUS_HIJACKED" value="f1fa8c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6272a4" />
